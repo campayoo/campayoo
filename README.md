@@ -1,19 +1,33 @@
-Typing SVG
 
-👋 ¡Hola!
-Soy Pablo, apasionado por la programación y el desarrollo de aplicaciones. 🧑‍💻 Actualmente me centro en Java, aunque disfruto del front-end web cuando toca maquetar con HTML & CSS.
-Me motiva crear proyectos divertidos y útiles, y compartir lo aprendido en el camino.
 
-🔭 Proyecto actual: Árbol de Navidad — Árbol de Navidad por consola en Java.
-🌱 Aprendiendo: Java avanzado y técnicas de desarrollo multiplataforma.
-📫 Contacto: Discord: tu_usuario#1234
+# 👋 ¡Bienvenido/a!
 
-🧰 Tecnologías & herramientas:
-Java | HTML5 | CSS | Git | VS Code | IntelliJ | Terminal
+Soy **Pablo**, aprendiendo desarrollo de aplicaciones multiplataforma 🧑‍💻 centrado actualmente en **Java**, con gusto por el **front-end web** cuando toca maquetar en **HTML & CSS**.  
+Me motiva crear herramientas sencillas que solucionen problemas cotidianos y compartir lo aprendido en el camino.
 
-📊 Estadísticas:
-[Stats Streak]
+- 🛠️ **Proyecto actual:** [Árbol Navidad](https://github.com/campayoo/arbol-navidad) — Árbol de Navidad por consola en Java.  
+- 🌱 **Aprendiendo:** Java y Desarrollo de Aplicaciones Multiplataforma.  
 
-“La mejor manera de aprender es compartir lo que sabes.”
+---
 
-¡Gracias por pasarte por mi perfil! ⭐️
+## 💼 Tecnologías & herramientas
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+---
+
+## 📊 Estadísticas
+
+![Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=campayoo&show_icons=true&theme=blue)
+
+---
+
+> “La mejor manera de aprender es **compartir** lo que sabes.” ⭐️
+
+¡Gracias por pasarte por aquí! 💛
