@@ -1,12 +1,11 @@
 
 
 # 👋 ¡Bienvenido/a!
-Soy **Pablo Campayo**, aprendiendo desarrollo de aplicaciones multiplataforma 🧑‍💻, centrado actualmente en **Java**, con interés en el **front-end web** y maquetación en **HTML & CSS**.  
-Me motiva crear herramientas sencillas que solucionen problemas cotidianos y compartir lo aprendido en el camino.
+Soy **campayoo**, aprendiendo desarrollo de aplicaciones multiplataforma 🧑‍💻, centrado actualmente en **Java**, con interés en el **front-end web** y maquetación en **HTML & CSS**.  
+Disfruto creando herramientas sencillas que resuelven problemas cotidianos y compartiendo lo aprendido en el camino.
 
 - 🛠️ **Proyecto actual:** [Árbol Navidad](https://github.com/campayoo/ArbolNavidad) — Árbol de Navidad por consola en Java.  
 - 🌱 **Aprendiendo:** Java y Desarrollo de Aplicaciones Multiplataforma.
-
 
 ---
 
