@@ -1,16 +1,19 @@
-## Hi there 👋
+Typing SVG
 
-<!--
-**campayoo/campayoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 ¡Hola!
+Soy Pablo, apasionado por la programación y el desarrollo de aplicaciones. 🧑‍💻 Actualmente me centro en Java, aunque disfruto del front-end web cuando toca maquetar con HTML & CSS.
+Me motiva crear proyectos divertidos y útiles, y compartir lo aprendido en el camino.
 
-Here are some ideas to get you started:
+🔭 Proyecto actual: Árbol de Navidad — Árbol de Navidad por consola en Java.
+🌱 Aprendiendo: Java avanzado y técnicas de desarrollo multiplataforma.
+📫 Contacto: Discord: tu_usuario#1234
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧰 Tecnologías & herramientas:
+Java | HTML5 | CSS | Git | VS Code | IntelliJ | Terminal
+
+📊 Estadísticas:
+[Stats Streak]
+
+“La mejor manera de aprender es compartir lo que sabes.”
+
+¡Gracias por pasarte por mi perfil! ⭐️
