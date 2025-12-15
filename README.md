@@ -1,4 +1,4 @@
-
+<div align="center">
 
 # 👋 ¡Bienvenido/a!
 Soy **campayoo**, aprendiendo desarrollo de aplicaciones multiplataforma 🧑‍💻, centrado actualmente en **Java**, con interés en el **front-end web** y maquetación en **HTML & CSS**.  
@@ -30,3 +30,5 @@ Disfruto creando herramientas sencillas que resuelven problemas cotidianos y com
 > “La mejor manera de aprender es **compartir** lo que sabes.” ⭐️
 
 ¡Gracias por pasarte por aquí! 💛
+
+</div>
