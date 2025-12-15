@@ -5,7 +5,7 @@
 Soy **Pablo**, aprendiendo desarrollo de aplicaciones multiplataforma 🧑‍💻 centrado actualmente en **Java**, con gusto por el **front-end web** cuando toca maquetar en **HTML & CSS**.  
 Me motiva crear herramientas sencillas que solucionen problemas cotidianos y compartir lo aprendido en el camino.
 
-- 🛠️ **Proyecto actual:** [Árbol Navidad](https://github.com/campayoo/arbol-navidad) — Árbol de Navidad por consola en Java.  
+- 🛠️ **Proyecto actual:** [Árbol Navidad](https://github.com/campayoo/ArbolNavidad) — Árbol de Navidad por consola en Java.  
 - 🌱 **Aprendiendo:** Java y Desarrollo de Aplicaciones Multiplataforma.  
 
 ---
@@ -24,8 +24,8 @@ Me motiva crear herramientas sencillas que solucionen problemas cotidianos y com
 
 ## 📊 Estadísticas
 
-![Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=campayoo&show_icons=true&theme=blue)
-
+[![Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=campayoo&show_icons=true&theme=blue)
+](https://github-readme-stats.vercel.app/api?username=campayoo&show_icons=true&theme=blue)
 ---
 
 > “La mejor manera de aprender es **compartir** lo que sabes.” ⭐️
