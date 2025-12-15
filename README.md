@@ -24,8 +24,8 @@ Me motiva crear herramientas sencillas que solucionen problemas cotidianos y com
 
 ## 📊 Estadísticas
 
-[![Pablo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=campayoo&show_icons=true&theme=blue)
-](https://github-readme-stats.vercel.app/api?username=campayoo&show_icons=true&theme=blue)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=campayoo&show_icons=true&theme=transparent&hide_border=true)
+
 ---
 
 > “La mejor manera de aprender es **compartir** lo que sabes.” ⭐️
