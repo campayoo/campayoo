@@ -1,48 +1,53 @@
 <div align="center">
 
-# 👋 ¡Hola, soy campayoo!
+# 🚀 Hola, soy campayoo
+### Estudiante de DAM | Java Developer | Web Enthusiast
 
-**Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)** 🚀  
-Enfocado en construir software robusto con **Java** y experiencias web modernas con **HTML & CSS**. Mi objetivo es dominar el ciclo completo de desarrollo, desde la lógica de backend hasta la interfaz de usuario.
-
----
-
-### 🏆 Proyecto Destacado (2026)
-**[Proyecto Intermodular 🚀](https://github.com/campayoo/ProyectoIntermodular)** *Mi proyecto más ambicioso hasta la fecha, donde aplico de forma integral los conocimientos adquiridos en el grado de DAM: arquitectura de software, gestión de datos y diseño funcional.*
+[![Licencia](https://img.shields.io/badge/Status-En%20Desarrollo-green?style=for-the-badge)](https://github.com/campayoo/ProyectoIntermodular)
+[![Website](https://img.shields.io/badge/Live_Demo-Acceder-blue?style=for-the-badge&logo=github-pages&logoColor=white)](https://campayoo.github.io/ProyectoIntermodular/)
 
 ---
 
-### 🌍 Presencia Online
-🌐 **Visita mi Portfolio / Web:** [campayoo.github.io](https://campayoo.github.io/)  
-*(Aquí es donde despliego mis experimentos de front-end y maquetación)*
+## 🛠️ Mi Proyecto Principal
+### [Proyecto Intermodular 2026](https://github.com/campayoo/ProyectoIntermodular)
+Este es mi desarrollo más completo hasta la fecha. Una aplicación que integra lógica de negocio robusta, gestión de datos y una interfaz funcional.
+
+**[✨ Ver resultado en vivo aquí](https://campayoo.github.io/ProyectoIntermodular/)**
 
 ---
 
-### 💻 Stack Tecnológico & Herramientas
+## 💻 Tech Stack & Tools
 
-**Lenguajes & Frontend** ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Herramientas & Entornos** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+| **Lenguajes** | **Herramientas** |
+| :--- | :--- |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white) |
+| ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat-square&logo=git&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) | ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC.svg?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
 ---
 
-### 📊 Mi Actividad en GitHub
+## 📊 Mi Actividad en GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=campayoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de campayoo" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=campayoo&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más usados" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=campayoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas" />
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=campayoo&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-> "Cualquier programador puede escribir código que un ordenador entienda. Un buen programador escribe código que los humanos entiendan." — *Martin Fowler* 💡
+### 🌱 Actualmente estoy...
+* 🔭 Trabajando en la evolución de mi **Proyecto Intermodular**.
+* ⚡ Refinando mis habilidades en **Java** y estructuras de datos.
+* 🎨 Mejorando la experiencia de usuario en mis despliegues de **GitHub Pages**.
 
-¡Gracias por pasarte por aquí! 💛
+---
+
+> "El código limpio siempre parece que ha sido escrito por alguien a quien le importa." — *Robert C. Martin*
 
 </div>
