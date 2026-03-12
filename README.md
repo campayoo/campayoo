@@ -1,34 +1,37 @@
 <div align="center">
 
-# 👋 ¡Bienvenido/a!
-Soy **campayoo**, aprendiendo desarrollo de aplicaciones multiplataforma 🧑‍💻, centrado actualmente en **Java**, con interés en el **front-end web** y maquetación en **HTML & CSS**.  
-Disfruto creando herramientas sencillas que resuelven problemas cotidianos y compartiendo lo aprendido en el camino.
+# 👋 ¡Hola, soy campayoo!
 
-- 🛠️ **Proyecto actual:** [Árbol Navidad](https://github.com/campayoo/ArbolNavidad) — Árbol de Navidad por consola en Java.  
-- 🌱 **Aprendiendo:** Java y Desarrollo de Aplicaciones Multiplataforma.
+**Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM)** 🚀  
+Apasionado por construir soluciones robustas en **Java** y crear interfaces web atractivas con **HTML & CSS**. Mi enfoque actual es dominar la lógica de programación y las buenas prácticas de desarrollo.
 
 ---
 
-## 💼 Tecnologías & herramientas
+### 🛠️ Proyecto Destacado
+**[Calculadora Avanzada](https://github.com/campayoo/Calculadora_Avanzada)** *Una herramienta potente en Java que va más allá de las operaciones básicas, implementando control de errores y una lógica estructurada.*
 
+---
+
+### 💼 Stack Tecnológico
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📊 Estadísticas
+### 📈 Mi Actividad en GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=campayoo&show_icons=true&theme=transparent&hide_border=true)
+![Estadísticas de campayoo](https://github-readme-stats.vercel.app/api?username=campayoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=campayoo&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-> “La mejor manera de aprender es **compartir** lo que sabes.” ⭐️
+> "El código es como el humor: si tienes que explicarlo, es malo." — *Cory House* 💡
 
-¡Gracias por pasarte por aquí! 💛
+¡Gracias por visitar mi rincón de código! 💛
 
 </div>
