@@ -48,6 +48,5 @@ Este es mi desarrollo más completo hasta la fecha. Una aplicación que integra 
 
 ---
 
-> "El código limpio siempre parece que ha sido escrito por alguien a quien le importa." — *Robert C. Martin*
 
 </div>
