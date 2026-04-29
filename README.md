@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola, soy **campayo** 👋
+# Hola, soy **Pablo Campayo** 👋
 
 ### Estudiante de DAM · Java Developer · Web Developer
 
