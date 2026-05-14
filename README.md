@@ -21,7 +21,7 @@
 
 ---
 
-## 🧑‍💻 Sobre mí
+# 🧑‍💻 Sobre mí
 
 ```java
 public class PabloCampayo extends Developer {
@@ -37,7 +37,11 @@ public class PabloCampayo extends Developer {
         "Soluciones escalables"
     };
 
-    private final String[] intereses = { "Fútbol ⚽", "Videojuegos 🎮", "Arquitectura de Software 🏗️" };
+    private final String[] intereses = {
+        "Fútbol ⚽",
+        "Videojuegos 🎮",
+        "Arquitectura de Software 🏗️"
+    };
 
     public String getObjetivo() {
         return "Aportar valor real en entornos profesionales mediante prácticas.";
@@ -47,17 +51,17 @@ public class PabloCampayo extends Developer {
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
-### ☕ Backend & Lógica
+## ☕ Backend & Lógica
 ![Java](https://img.shields.io/badge/Java_17-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-%230075C2.svg?style=for-the-badge&logo=buffer&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/JUnit_5-%2325A162.svg?style=for-the-badge&logo=junit5&logoColor=white)
 ![SOLID](https://img.shields.io/badge/SOLID_Principles-%234B0082.svg?style=for-the-badge&logo=checkmarx&logoColor=white)
 
-### 🌐 Frontend & UI
+## 🌐 Frontend & UI
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
@@ -66,14 +70,14 @@ public class PabloCampayo extends Developer {
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### 🗄️ Datos & Backend Web
+## 🗄️ Datos & Backend Web
 ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-%23C5F74F.svg?style=for-the-badge&logo=drizzle&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
-### 🔧 Herramientas
+## 🔧 Herramientas
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -83,34 +87,17 @@ public class PabloCampayo extends Developer {
 
 ---
 
-## 🚀 Proyectos Destacados
+# 🚀 Proyectos Destacados
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚽ CF Cracks — Gestión de Entrenamientos
-**Plataforma Web Full-Stack para Entrenadores de Fútbol**
-
-[![Repo](https://img.shields.io/badge/Ver_Repo-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/campayoo)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
-
-> Aplicación profesional de gestión de sesiones de entrenamiento siguiendo la metodología del **Microciclo Seirul·lo**.
-
-- 🔐 Autenticación por roles (admin / coach) con BetterAuth
-- 🗄️ Esquema relacional completo con Drizzle ORM + Neon DB
-- 📅 Planificación de microciclos MD-5 a MD+2 con catálogos dinámicos
-- 🏗️ Server Actions, middleware de protección y arquitectura por capas
-
-</td>
-<td width="50%" valign="top">
-
-### ⚽ Champions Elite
-**Simulación & Gestión Deportiva**
+## ⚽ Champions Elite
+### Simulación & Gestión Deportiva
 
 [![Repo](https://img.shields.io/badge/Ver_Repo-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/campayoo/ProyectoChampions)
+
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/JUnit5-%2325A162.svg?style=flat-square&logo=junit5&logoColor=white)
 ![Swing](https://img.shields.io/badge/Swing-GUI-%230075C2.svg?style=flat-square)
@@ -119,38 +106,52 @@ public class PabloCampayo extends Developer {
 
 - 🎯 Motor de simulación con algoritmos de probabilidad
 - 💾 Persistencia de datos binaria
-- ✅ **85% de cobertura** en tests
+- ✅ 85% de cobertura en tests
 - 🏗️ Separación estricta Model · GUI · Data Access
 
 </td>
-</tr>
-<tr>
+
 <td width="50%" valign="top">
 
-### 🌍 WORLDGAMES — ODS Hub
-**Plataforma Web Pro-Sostenibilidad**
+## 🌍 WORLDGAMES — ODS Hub
+### Plataforma Web Pro-Sostenibilidad
 
 [![Repo](https://img.shields.io/badge/Ver_Repo-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/campayoo/ProyectoIntermodular)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2306B6D4.svg?style=flat-square&logo=tailwindcss&logoColor=white)
 
-> Ecosistema de 9 microjuegos en una **SPA** centrada en UX e impacto social.
+> Ecosistema de 9 microjuegos en una SPA centrada en UX e impacto social.
 
 - 🎨 Diseño Cyberpunk + sistema de puntuación centralizado
-- 🌱 Mecánicas vinculadas a los **ODS de la ONU**
+- 🌱 Mecánicas vinculadas a los ODS de la ONU
 - ⚡ Despliegue automatizado vía GitHub Pages
 - 📱 Diseño responsive y accesible
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
-### 🕹️ Proyectos de Algoritmia & Consola
+## 🕹️ Proyectos de Algoritmia & Consola
 
 | Proyecto | Descripción |
 |:---|:---|
-| 🗺️ **[Juego del Tesoro](https://github.com/campayoo/JuegoDelTesoro)** | Mapas 10×10 con generación procedural y *Random Walk* |
-| 🔤 **[Ahorcado Pro](https://github.com/campayoo/AhorcadoJugadores)** | Lógica multijugador y validación de estados |
-| 🎄 **[Árbol Navideño](https://github.com/campayoo/ArbolNavidad)** | ASCII Art y colores ANSI en consola |
+| 🗺️ [Juego del Tesoro](https://github.com/campayoo/JuegoDelTesoro) | Mapas 10×10 con generación procedural y Random Walk |
+| 🔤 [Ahorcado Pro](https://github.com/campayoo/AhorcadoJugadores) | Lógica multijugador y validación de estados |
+| 🎄 [Árbol Navideño](https://github.com/campayoo/ArbolNavidad) | ASCII Art y colores ANSI en consola |
+
+</td>
+
+<td width="50%" valign="top">
+
+## 💡 Actualmente desarrollando
+
+- ⚙️ Aplicaciones Java con arquitectura limpia
+- 🌐 Aplicaciones web modernas con Next.js
+- 🗄️ APIs REST y bases de datos relacionales
+- 🧪 Testing y buenas prácticas de desarrollo
 
 </td>
 </tr>
@@ -158,7 +159,7 @@ public class PabloCampayo extends Developer {
 
 ---
 
-## 📊 Estadísticas de GitHub
+# 📊 Estadísticas de GitHub
 
 <div align="center">
 
@@ -182,7 +183,7 @@ public class PabloCampayo extends Developer {
 
 ---
 
-## 🌱 En continuo aprendizaje...
+# 🌱 En continuo aprendizaje...
 
 <div align="center">
 
@@ -201,6 +202,6 @@ public class PabloCampayo extends Developer {
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
-**¿Interesado en mi perfil? ¡Hablemos!**
+## ¿Interesado en mi perfil? ¡Hablemos!
 
 </div>
