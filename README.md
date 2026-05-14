@@ -1,90 +1,94 @@
-# Pablo Campayo
-
-**Estudiante de DAM** — construyendo software con criterio desde España.
-
-Me gusta que las cosas funcionen bien *y* que se vean bien. Backend con Java, frontend con JS/HTML/CSS, y siempre buscando que cada proyecto tenga algo que lo haga memorable.
-
----
-
-## Lo que estoy haciendo ahora
-
-- Acabando **ProyectoChampions** — un simulador de Champions League con Swing que se ha ido de las manos (en el buen sentido)
-- Explorando **Spring Boot** para llevar mis proyectos Java a la web
-- Consolidando estructuras de datos y algoritmos
-- Aprendiendo a escribir código que no me dé vergüenza leer 6 meses después
-
----
-
-## Proyectos
-
-### 🌍 WORLDGAMES — Microjuegos por la Sostenibilidad
-`JavaScript` · `HTML5` · `CSS3` · `Tailwind CSS` · `GitHub Pages`
-
-Plataforma con **9 microjuegos** temáticos, cada uno vinculado a un ODS de la ONU. Hub central con estética cyberpunk oscura, animaciones glitch, sistema de puntuación global y despliegue en producción.
-
-Sky Dodger · Chicken Crossing · Ocean Cleanup · EcoPulse · Vital Rhythm · El Reparto Justo · Click & Clean · Energía Solar · Cruce Sostenible
-
-→ [**Demo en vivo**](https://campayoo.github.io/ProyectoIntermodular/) · [Código](https://github.com/campayoo/ProyectoIntermodular)
-
----
-
-### ⚽ Proyecto Champions Elite
-`Java 17` · `Swing` · `OOP` · `Serialización` · `JUnit 5`
-
-Simulador completo de la UEFA Champions League con GUI. Gestión de plantillas, mercado de fichajes, pizarra táctica interactiva, motor de simulación con OVR y penaltis, persistencia binaria. Arquitectura por capas — Model / GUI / Data — con cobertura de tests del 85%.
-
-→ [Código](https://github.com/campayoo/ProyectoChampions)
-
----
-
-### 🎮 Juego del Tesoro
-`Java` · `Arrays 2D` · `ANSI Colors`
-
-Aventura de exploración en consola sobre un mapa 10×10 generado proceduralmente. Camino garantizado hasta el tesoro mediante random walk. Visualización con Unicode y colores ANSI.
-
-→ [Código](https://github.com/campayoo/JuegoDelTesoro)
-
----
-
-### 🪓 Ahorcado de Jugadores Históricos
-`Java` · `Arrays` · `Scanner`
-
-El clásico juego del ahorcado, pero con más de 70 futbolistas históricos: Pelé, Maradona, Cruyff y muchos más. Detección de letras repetidas, contador de intentos y lógica de victoria/derrota.
-
-→ [Código](https://github.com/campayoo/AhorcadoJugadores)
-
----
-
-### 🎄 Árbol de Navidad
-`Java` · `ASCII Art` · `ANSI Colors`
-
-Generador de árbol de Navidad configurable: número de ramas, tronco opcional, decoración aleatoria con bolas de colores y regalos en Unicode. Centrado dinámico según el tamaño elegido.
-
-→ [Código](https://github.com/campayoo/ArbolNavidad)
-
----
-
-## Stack
-
-```
-Lenguajes     Java · JavaScript · HTML5 · CSS3
-Frameworks    Tailwind CSS · Java Swing
-Herramientas  Git · IntelliJ IDEA · VS Code · GitHub Pages
-En progreso   Spring Boot · Estructuras de datos · Algoritmos
-```
-
----
-
-## Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=campayoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" height="150" alt="Stats" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=campayoo&layout=compact&theme=tokyonight&hide_border=true&locale=es" height="150" alt="Langs" />
+# 🚀 Hola, soy **Pablo Campayo**
+
+### **Java Developer · Web Developer · Estudiante de DAM**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_A_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/campayoo)
+[![Estado](https://img.shields.io/badge/Estado-Buscando_Prácticas-22c55e?style=for-the-badge)](mailto:tu-correo@ejemplo.com)
+
+*Transformando ideas complejas en código limpio, arquitecturas sólidas y experiencias interactivas.*
 
 </div>
 
 ---
 
-<sub>DAM · España · Disponible para prácticas</sub>
+## 🧑‍💻 Sobre mí
+
+Soy un apasionado del desarrollo de software actualmente cursando **Desarrollo de Aplicaciones Multiplataforma (DAM)**. Mi enfoque se centra en crear soluciones escalables utilizando **Java** para el backend y tecnologías modernas para el frontend. Me encanta el reto de aplicar patrones de diseño, arquitectura por capas y asegurar la calidad del código mediante testing.
+
+- 🔭 **Proyectos actuales:** Evolucionando un simulador de fútbol profesional y plataformas web con impacto social.
+- 🎯 **Mi objetivo:** Aportar valor en entornos de desarrollo reales mediante prácticas profesionales.
+- ⚽ **Intereses:** Fanático de la lógica del fútbol, los videojuegos y la arquitectura de software.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+| **Backend & Logic** | **Frontend & UI** | **Herramientas** |
+| :--- | :--- | :--- |
+| ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white) |
+| ![OOP](https://img.shields.io/badge/OOP-Paradigm-blue?style=flat-square) | ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![VSCode](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+
+</div>
+
+---
+
+## 🚀 Proyectos Destacados
+
+### ⚽ [Champions Elite](https://github.com/campayoo/ProyectoChampions)
+**Software de Simulación & Gestión Deportiva**
+> Una aplicación de escritorio robusta que demuestra el dominio de la **Programación Orientada a Objetos** y la arquitectura por capas.
+
+*   **Core:** Java 17, Swing, JUnit 5.
+*   **Hitos:** Motor de simulación con algoritmos de probabilidad, persistencia de datos binaria y cobertura de tests del **85%**.
+*   **Arquitectura:** Separación estricta entre Lógica de Negocio (Model), Interfaz (GUI) y Acceso a Datos.
+
+---
+
+### 🌍 [WORLDGAMES — ODS Hub](https://github.com/campayoo/ProyectoIntermodular)
+**Plataforma Web de Microjuegos Pro-Sostenibilidad**
+> Un ecosistema de 9 juegos integrados en una SPA (Single Page Application) centrada en la experiencia de usuario y el impacto social.
+
+*   **Tech:** JS Vanilla, Tailwind CSS, Animate.css.
+*   **Highlights:** Diseño *Cyberpunk*, sistema de puntuación centralizado y despliegue automatizado.
+*   **Impacto:** Vinculación directa de mecánicas de juego con los Objetivos de Desarrollo Sostenible (ONU).
+
+---
+
+### 🕹️ Lógica y Algoritmia (Console Projects)
+*Demostrando bases sólidas en estructuras de datos y manejo de flujos.*
+
+*   **[Juego del Tesoro](https://github.com/campayoo/JuegoDelTesoro):** Generación procedural de mapas 10x10 y algoritmo de *Random Walk* para garantizar caminos válidos.
+*   **[Ahorcado Pro](https://github.com/campayoo/AhorcadoJugadores):** Lógica de juegos con manejo de arrays y validación de estados.
+*   **[Arbol Navideño Dinámico](https://github.com/campayoo/ArbolNavidad):** Algoritmia aplicada a la representación visual en consola (ASCII Art & ANSI Colors).
+
+---
+
+## 📊 Estadísticas
+
+<div align="center">
+
+| **Actividad en GitHub** | **Lenguajes más usados** |
+| :--- | :--- |
+| <img src="https://github-readme-stats.vercel.app/api?username=campayoo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=es" height="150" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=campayoo&layout=compact&theme=tokyonight&hide_border=true&locale=es" height="150" /> |
+
+</div>
+
+---
+
+## 🌱 En continuo aprendizaje...
+
+*   ☕ Profundizando en el ecosistema **Spring Boot** para APIs REST.
+*   🗄️ Especializándome en **SQL y Optimización de Consultas**.
+*   🎨 Perfeccionando **Clean Code** y principios **SOLID**.
+
+<div align="center">
+
+¿Interesado en mi perfil? **¡Hablemos!**
+[📧 Contactar por Email](mailto:TU-CORREO@AQUI.COM)
+
+</div>
