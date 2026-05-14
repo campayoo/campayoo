@@ -12,11 +12,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_A_LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/campayoo)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/campayoo)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU-CORREO@AQUI.COM)
-[![Estado](https://img.shields.io/badge/🎯_Buscando_Prácticas-22c55e?style=for-the-badge)](mailto:TU-CORREO@AQUI.COM)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pcampayo07@gmail.com)
+[![Estado](https://img.shields.io/badge/🎯_Buscando_Prácticas-22c55e?style=for-the-badge)](mailto:pcampayo07@gmail.com)
 
 </div>
 
@@ -174,10 +173,5 @@ public class PabloCampayo extends Developer {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 **¿Interesado en mi perfil? ¡Hablemos!**
-
-[![Email](https://img.shields.io/badge/📧_Escríbeme-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU-CORREO@AQUI.COM)
-[![LinkedIn](https://img.shields.io/badge/Conectemos-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](TU_LINK_A_LINKEDIN)
-
-![Visitas](https://komarev.com/ghpvc/?username=campayoo&color=6EE7B7&style=flat-square&label=Visitas+al+perfil)
 
 </div>
