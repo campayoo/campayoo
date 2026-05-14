@@ -59,12 +59,17 @@ public class PabloCampayo extends Developer {
 
 ### 🌐 Frontend & UI
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### 🗄️ Datos & Aprendiendo
+### 🗄️ Datos & Backend Web
 ![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle_ORM-%23C5F74F.svg?style=for-the-badge&logo=drizzle&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
@@ -84,6 +89,24 @@ public class PabloCampayo extends Developer {
 <tr>
 <td width="50%" valign="top">
 
+### ⚽ CF Cracks — Gestión de Entrenamientos
+**Plataforma Web Full-Stack para Entrenadores de Fútbol**
+
+[![Repo](https://img.shields.io/badge/Ver_Repo-%23181717.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/campayoo)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white)
+
+> Aplicación profesional de gestión de sesiones de entrenamiento siguiendo la metodología del **Microciclo Seirul·lo**.
+
+- 🔐 Autenticación por roles (admin / coach) con BetterAuth
+- 🗄️ Esquema relacional completo con Drizzle ORM + Neon DB
+- 📅 Planificación de microciclos MD-5 a MD+2 con catálogos dinámicos
+- 🏗️ Server Actions, middleware de protección y arquitectura por capas
+
+</td>
+<td width="50%" valign="top">
+
 ### ⚽ Champions Elite
 **Simulación & Gestión Deportiva**
 
@@ -100,6 +123,8 @@ public class PabloCampayo extends Developer {
 - 🏗️ Separación estricta Model · GUI · Data Access
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🌍 WORLDGAMES — ODS Hub
@@ -117,16 +142,19 @@ public class PabloCampayo extends Developer {
 - 📱 Diseño responsive y accesible
 
 </td>
-</tr>
-</table>
+<td width="50%" valign="top">
 
 ### 🕹️ Proyectos de Algoritmia & Consola
 
-| Proyecto | Descripción | Tecnología |
-|:---|:---|:---|
-| 🗺️ **[Juego del Tesoro](https://github.com/campayoo/JuegoDelTesoro)** | Mapas 10×10 con generación procedural y algoritmo *Random Walk* | `Java` |
-| 🔤 **[Ahorcado Pro](https://github.com/campayoo/AhorcadoJugadores)** | Lógica multijugador, manejo de arrays y validación de estados | `Java` |
-| 🎄 **[Árbol Navideño](https://github.com/campayoo/ArbolNavidad)** | Algoritmia visual con ASCII Art y colores ANSI en consola | `Java` |
+| Proyecto | Descripción |
+|:---|:---|
+| 🗺️ **[Juego del Tesoro](https://github.com/campayoo/JuegoDelTesoro)** | Mapas 10×10 con generación procedural y *Random Walk* |
+| 🔤 **[Ahorcado Pro](https://github.com/campayoo/AhorcadoJugadores)** | Lógica multijugador y validación de estados |
+| 🎄 **[Árbol Navideño](https://github.com/campayoo/ArbolNavidad)** | ASCII Art y colores ANSI en consola |
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -163,6 +191,7 @@ public class PabloCampayo extends Developer {
 | ☕ Spring Boot & APIs REST | 🐳 Docker & Contenedores |
 | 🗄️ SQL & Optimización de Consultas | ☁️ Cloud basics (AWS/GCP) |
 | 🎨 Clean Code & principios SOLID | 🔐 Seguridad en aplicaciones web |
+| ⚡ Next.js & TypeScript full-stack | 🧪 Testing E2E con Playwright |
 
 </div>
 
