@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-<img src="assets/facts.svg" alt="DAM + SMR · Experiencia en Atenas · Inglés B2 · 225 pruebas en EGG WARS" width="100%"/>
+<img src="assets/facts-v2.svg" alt="DAM + SMR · Experiencia en Atenas · Inglés B2 · 225 pruebas en EGG WARS" width="100%"/>
 
 <img src="assets/erasmus.svg" alt="Disponible para prácticas Erasmus+: resuelvo problemas, aprendo rápido, trabajo en equipo, experiencia internacional" width="100%"/>
 
@@ -53,7 +53,7 @@ Soy **Pablo**, de Torrent (Valencia). Mezclo dos mundos: los **sistemas y las re
 
 ## 💼 Experiencia
 
-<img src="assets/experience.svg" alt="Desarrollador web en CrowdPolicy (Atenas, mar–abr 2025): web en WordPress y chatbot. Técnico TIC en RS Turia (abr–may 2025): mantenimiento, soporte y web en WordPress. Personal de equipo (entrenador) en McDonald's A7 (dic 2025 – hoy)." width="100%"/>
+<img src="assets/experience-v2.svg" alt="Desarrollador web en CrowdPolicy (Atenas, mar–abr 2025): web en WordPress y chatbot. Técnico TIC en RS Turia (abr–may 2025): mantenimiento, soporte y web en WordPress. Personal de equipo (entrenador) en McDonald's A7 (dic 2025 – hoy)." width="100%"/>
 
 ---
 
@@ -73,7 +73,7 @@ Soy **Pablo**, de Torrent (Valencia). Mezclo dos mundos: los **sistemas y las re
 
 ## 🎓 Formación e idiomas
 
-<img src="assets/education.svg" alt="CFGS Desarrollo de Aplicaciones Multiplataforma (IES Abastos, 2025 – hoy) y CFGM Sistemas Microinformáticos y Redes (IES Serra Perenxisa, 2023 – 2025). Idiomas: español y valenciano nativos, inglés B2, francés A2." width="100%"/>
+<img src="assets/education-v2.svg" alt="CFGS Desarrollo de Aplicaciones Multiplataforma (IES Abastos, 2025 – hoy) y CFGM Sistemas Microinformáticos y Redes (IES Serra Perenxisa, 2023 – 2025). Idiomas: español y valenciano nativos, inglés B2, francés A2." width="100%"/>
 
 ---
 
