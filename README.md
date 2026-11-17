@@ -139,10 +139,14 @@ public class Pablo extends Developer {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=campayoo&show_icons=true&locale=es&hide_border=true&bg_color=fffaf3&title_color=ff6a1a&text_color=3b2412&icon_color=ff8c2a&rank_icon=github" height="165" alt="Estadísticas de GitHub"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=campayoo&layout=compact&locale=es&hide_border=true&bg_color=fffaf3&title_color=ff6a1a&text_color=3b2412&langs_count=6" height="165" alt="Lenguajes más usados"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=campayoo&theme=default" width="95%" alt="Resumen de mi perfil de GitHub"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=campayoo&theme=default" height="165" alt="Repositorios por lenguaje"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=campayoo&theme=default" height="165" alt="Lenguajes con más commits"/>
 
 <img src="https://streak-stats.demolab.com/?user=campayoo&locale=es&hide_border=true&background=fffaf3&ring=ff8c2a&fire=ff6a1a&currStreakLabel=ff6a1a&sideLabels=3b2412&currStreakNum=3b2412&sideNums=3b2412&dates=9a7a62&stroke=f1dcc4" height="165" alt="Racha de contribuciones"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=campayoo&bg_color=fffaf3&color=3b2412&line=ff8c2a&point=ff6a1a&area=true&area_color=ffc24a&hide_border=true&title_color=ff6a1a&custom_title=Mi%20actividad%20en%20los%20%C3%BAltimos%20d%C3%ADas" width="95%" alt="Gráfico de actividad"/>
 
 </div>
 
