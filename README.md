@@ -42,65 +42,67 @@ public class Pablo extends Developer {
 
 ## 🚀 Proyecto estrella
 
-<table>
-<tr>
-<td width="52%" valign="top">
+<div align="center">
 
-<a href="https://github.com/campayoo/EggWars"><img src="https://raw.githubusercontent.com/campayoo/EggWars/main/docs/img/banner.jpg" alt="Escena de EGG WARS" width="100%"/></a>
+<a href="https://github.com/campayoo/EggWars"><img src="https://raw.githubusercontent.com/campayoo/EggWars/main/docs/img/banner.jpg" alt="EGG WARS" width="100%"/></a>
 
-</td>
-<td width="48%" valign="top">
+<a href="https://campayoo.github.io/EggWars/#mapas"><img src="https://raw.githubusercontent.com/campayoo/EggWars/main/docs/img/mapa-castle.jpg" alt="Mapa Castle" width="32%"/></a>
+<a href="https://campayoo.github.io/EggWars/#mapas"><img src="https://raw.githubusercontent.com/campayoo/EggWars/main/docs/img/mapa-moonbase.jpg" alt="Mapa Moonbase" width="32%"/></a>
+<a href="https://campayoo.github.io/EggWars/#mapas"><img src="https://raw.githubusercontent.com/campayoo/EggWars/main/docs/img/mapa-medina.jpg" alt="Mapa Medina" width="32%"/></a>
 
-### 🥚 [EGG WARS](https://github.com/campayoo/EggWars)
-**Shooter 3D multijugador de huevos en el navegador**, hecho desde cero.
+### 🥚 [EGG WARS](https://github.com/campayoo/EggWars) — shooter 3D multijugador en el navegador
 
-- 🌍 **Online** con cuentas en PostgreSQL · 🤖 **contra bots** sin servidor · 🏠 **red local**
-- 🗺️ 16 mapas · 🔫 8 armas · 🎯 4 modos + **Huevo Impostor**
-- 🛡️ Servidor autoritativo con **anti-trampas** y compensación de latencia
-- 🤖 Bots con **A\*** que suben rampas y escaleras
-- ✅ **225 pruebas** automáticas
+Hecho desde cero: servidor autoritativo con **anti-trampas**, bots con **A\***, cuentas en **PostgreSQL** y una versión que funciona **sin servidor**.
+
+**16** mapas · **8** armas · **4** modos + Huevo Impostor · **225** pruebas automáticas
 
 ![Three.js](https://img.shields.io/badge/Three.js-000?style=flat-square&logo=threedotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
-[**▶ Jugar online**](https://eggwars-plai.onrender.com) · [**🤖 Contra bots**](https://campayoo.github.io/EggWars/jugar/) · [**📖 Guía y docs**](https://campayoo.github.io/EggWars/)
+<a href="https://eggwars-plai.onrender.com"><img src="https://img.shields.io/badge/▶_Jugar_online-ff6a1a?style=for-the-badge" alt="Jugar online"/></a>
+<a href="https://campayoo.github.io/EggWars/jugar/"><img src="https://img.shields.io/badge/🤖_Contra_bots-3b2412?style=for-the-badge" alt="Jugar contra bots"/></a>
+<a href="https://campayoo.github.io/EggWars/"><img src="https://img.shields.io/badge/📖_Guía_y_docs-ffb03a?style=for-the-badge" alt="Guía y documentación"/></a>
 
-</td>
-</tr>
-</table>
+</div>
 
 ### 🧩 Más proyectos
 
-| Proyecto | Qué es | Tecnologías |
-|:--|:--|:--|
-| ⚽ **[Champions Elite](https://github.com/campayoo/ProyectoChampions)** | Simulador de la Champions League: equipos, fichajes, alineaciones y eliminatorias, con arquitectura por capas | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Swing](https://img.shields.io/badge/Swing-4A90D9?style=flat-square) ![JUnit5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white) |
-| 🌍 **[WORLDGAMES · ODS Hub](https://github.com/campayoo/ProyectoIntermodular)** | Plataforma web con minijuegos educativos sobre los Objetivos de Desarrollo Sostenible | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| 🗺️ **[Juego del Tesoro](https://github.com/campayoo/JuegoDelTesoro)** | Aventura de consola con mapas generados al azar y camino garantizado hasta el tesoro | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| 🔤 **[Ahorcado de futbolistas](https://github.com/campayoo/AhorcadoJugadores)** | El ahorcado clásico con jugadores históricos del fútbol | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
-| 🎄 **[Árbol de Navidad](https://github.com/campayoo/ArbolNavidad)** | Árbol interactivo en consola con colores ANSI y decoración aleatoria | ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) |
+> **⚽ [Champions Elite](https://github.com/campayoo/ProyectoChampions)** &nbsp; ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Swing](https://img.shields.io/badge/Swing-4A90D9?style=flat-square) ![JUnit5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
+> Simulador de la Champions League: equipos, fichajes, alineaciones y eliminatorias, con arquitectura por capas e interfaz gráfica.
+
+> **🌍 [WORLDGAMES · ODS Hub](https://github.com/campayoo/ProyectoIntermodular)** &nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+> Plataforma web con minijuegos educativos sobre los Objetivos de Desarrollo Sostenible.
+
+> **🎮 Juegos de consola en Java** &nbsp; ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+> 🗺️ [Juego del Tesoro](https://github.com/campayoo/JuegoDelTesoro) (mapas aleatorios con camino garantizado) · 🔤 [Ahorcado de futbolistas](https://github.com/campayoo/AhorcadoJugadores) · 🎄 [Árbol de Navidad](https://github.com/campayoo/ArbolNavidad) (colores ANSI)
 
 ---
 
 ## 💼 Experiencia
 
-| | Puesto | Dónde | Cuándo |
-|:--:|:--|:--|:--|
-| 🇬🇷 | **Desarrollador web** · CrowdPolicy | Atenas, Grecia | mar 2025 – abr 2025 |
-| | <sub>Diseñé y desarrollé una web completa en **WordPress** (estructura, tema y plugins) y un **chatbot** interactivo para resolver dudas de los usuarios.</sub> |||
-| 🛠️ | **Técnico TIC** · RS Turia – Recambios y accesorios | Riba-roja de Túria | abr 2025 – may 2025 |
-| | <sub>Mantenimiento preventivo y correctivo de equipos, **soporte técnico** a usuarios y desarrollo de una web en **WordPress**.</sub> |||
-| 🍔 | **Personal de equipo (entrenador)** · McDonald's A7 | Torrent | dic 2025 – actualidad |
-| | <sub>Atención al cliente, preparación de pedidos, postres y bebidas, y cuidado del salón; trabajo en equipo en un entorno de mucho ritmo.</sub> |||
+#### 🇬🇷 Desarrollador web — CrowdPolicy
+`Atenas, Grecia` · `mar 2025 – abr 2025`
+- Diseñé y desarrollé una web completa en **WordPress**: estructura de contenidos, tema y plugins.
+- Desarrollé un **chatbot** interactivo para resolver automáticamente las dudas de los usuarios.
+
+#### 🛠️ Técnico TIC — RS Turia (Recambios y accesorios)
+`Riba-roja de Túria` · `abr 2025 – may 2025`
+- Mantenimiento **preventivo y correctivo** de equipos y **soporte técnico** a usuarios.
+- Diseño y desarrollo de una web en **WordPress**.
+
+#### 🍔 Personal de equipo (entrenador) — McDonald's A7
+`Torrent` · `dic 2025 – actualidad`
+- Atención al cliente, preparación de pedidos, postres y bebidas, y cuidado del salón.
+- Trabajo en equipo en un entorno de mucho ritmo.
 
 ## 🎓 Formación
 
-| | Título | Centro | Cuándo |
-|:--:|:--|:--|:--|
-| ☕ | **CFGS Desarrollo de Aplicaciones Multiplataforma** (EQF 5) | IES Abastos · Valencia | 2025 – actualidad |
-| 🖧 | **CFGM Sistemas Microinformáticos y Redes** (EQF 4) | IES Serra Perenxisa · Torrent | 2023 – 2025 |
-| 📜 | **CCNA 1** · Cisco Networking Academy | — | — |
+- ☕ **CFGS Desarrollo de Aplicaciones Multiplataforma** (EQF 5) — IES Abastos, Valencia · `2025 – actualidad`
+- 🖧 **CFGM Sistemas Microinformáticos y Redes** (EQF 4) — IES Serra Perenxisa, Torrent · `2023 – 2025`
+- 📜 **Cisco CCNA 1** · Cisco Packet Tracer
 
 ---
 
@@ -118,9 +120,10 @@ public class Pablo extends Developer {
 
 </div>
 
-| ☕ Programación | 🌐 Web | 🗄️ Datos | 🖧 Sistemas y redes |
-|:--|:--|:--|:--|
-| Java y POO · JUnit 5 · pruebas y documentación | HTML · CSS · JavaScript · WordPress · Three.js | SQL · diseño de bases de datos · persistencia · ERP/CRM | Montaje y reparación · Windows y Linux · redes · Cisco Packet Tracer · CCNA 1 |
+- ☕ **Programación:** Java y POO · JUnit 5 · pruebas, documentación y control de versiones
+- 🌐 **Web:** HTML · CSS · JavaScript · Three.js · WordPress
+- 🗄️ **Datos:** SQL · diseño de bases de datos · acceso a datos y persistencia · ERP/CRM
+- 🖧 **Sistemas y redes:** montaje y reparación · Windows y Linux · configuración de redes · Cisco Packet Tracer · CCNA 1
 
 ---
 
