@@ -4,13 +4,13 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=22&duration=2800&pause=900&color=FF6A1A&center=true&vCenter=true&width=640&lines=Estudiante+de+DAM+en+el+IES+Abastos+%E2%98%95;T%C3%A9cnico+en+Sistemas+Microinform%C3%A1ticos+y+Redes+%F0%9F%96%A7;Creador+de+EGG+WARS%2C+un+FPS+3D+online+%F0%9F%A5%9A;Buscando+pr%C3%A1cticas+Erasmus%2B+%E2%9C%88%EF%B8%8F" alt="Estudiante de DAM · Técnico en Sistemas y Redes · Creador de EGG WARS · Buscando prácticas Erasmus+"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=22&duration=2800&pause=900&color=FF6A1A&center=true&vCenter=true&width=760&lines=Estudiante+de+DAM+en+el+IES+Abastos;T%C3%A9cnico+en+Sistemas+y+Redes;Creador+de+EGG+WARS+(FPS+3D+online);Buscando+pr%C3%A1cticas+Erasmus%2B" alt="Estudiante de DAM · Técnico en Sistemas y Redes · Creador de EGG WARS · Buscando prácticas Erasmus+"/></a>
 
 <br/>
 
-<a href="https://campayoo.github.io"><img src="https://img.shields.io/badge/🌐_Mi_web-campayoo.github.io-ff8c2a?style=for-the-badge" alt="Mi web"/></a>
-<a href="https://eggwars-plai.onrender.com"><img src="https://img.shields.io/badge/🥚_Jugar_a_EGG_WARS-online-3b2412?style=for-the-badge" alt="Jugar a EGG WARS"/></a>
-<a href="#-english"><img src="https://img.shields.io/badge/🇬🇧_English-version-1f6feb?style=for-the-badge" alt="English version"/></a>
+<a href="https://campayoo.github.io"><img src="https://img.shields.io/badge/Mi_web-campayoo.github.io-ff8c2a?style=for-the-badge&logo=githubpages&logoColor=white" alt="Mi web"/></a>
+<a href="https://eggwars-plai.onrender.com"><img src="https://img.shields.io/badge/Jugar_a_EGG_WARS-online-3b2412?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Jugar a EGG WARS"/></a>
+<a href="#-english"><img src="https://img.shields.io/badge/English-version-1f6feb?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English version"/></a>
 
 <br/>
 
@@ -62,21 +62,21 @@ Hecho desde cero: servidor autoritativo con **anti-trampas**, bots con **A\***, 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
 
-<a href="https://eggwars-plai.onrender.com"><img src="https://img.shields.io/badge/▶_Jugar_online-ff6a1a?style=for-the-badge" alt="Jugar online"/></a>
-<a href="https://campayoo.github.io/EggWars/jugar/"><img src="https://img.shields.io/badge/🤖_Contra_bots-3b2412?style=for-the-badge" alt="Jugar contra bots"/></a>
-<a href="https://campayoo.github.io/EggWars/"><img src="https://img.shields.io/badge/📖_Guía_y_docs-ffb03a?style=for-the-badge" alt="Guía y documentación"/></a>
+<a href="https://eggwars-plai.onrender.com"><img src="https://img.shields.io/badge/Jugar_online-ff6a1a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Jugar online"/></a>
+<a href="https://campayoo.github.io/EggWars/jugar/"><img src="https://img.shields.io/badge/Contra_bots-3b2412?style=for-the-badge&logo=robotframework&logoColor=white" alt="Jugar contra bots"/></a>
+<a href="https://campayoo.github.io/EggWars/"><img src="https://img.shields.io/badge/Guía_y_docs-ffb03a?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Guía y documentación"/></a>
 
 </div>
 
 ### 🧩 Más proyectos
 
-> **⚽ [Champions Elite](https://github.com/campayoo/ProyectoChampions)** &nbsp; ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Swing](https://img.shields.io/badge/Swing-4A90D9?style=flat-square) ![JUnit5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
+> **⚽ [Champions Elite](https://github.com/campayoo/ProyectoChampions)** &nbsp; ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Swing](https://img.shields.io/badge/Swing-4A90D9?style=flat-square) ![JUnit5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)<br>
 > Simulador de la Champions League: equipos, fichajes, alineaciones y eliminatorias, con arquitectura por capas e interfaz gráfica.
 
-> **🌍 [WORLDGAMES · ODS Hub](https://github.com/campayoo/ProyectoIntermodular)** &nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+> **🌍 [WORLDGAMES · ODS Hub](https://github.com/campayoo/ProyectoIntermodular)** &nbsp; ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)<br>
 > Plataforma web con minijuegos educativos sobre los Objetivos de Desarrollo Sostenible.
 
-> **🎮 Juegos de consola en Java** &nbsp; ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+> **🎮 Juegos de consola en Java** &nbsp; ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)<br>
 > 🗺️ [Juego del Tesoro](https://github.com/campayoo/JuegoDelTesoro) (mapas aleatorios con camino garantizado) · 🔤 [Ahorcado de futbolistas](https://github.com/campayoo/AhorcadoJugadores) · 🎄 [Árbol de Navidad](https://github.com/campayoo/ArbolNavidad) (colores ANSI)
 
 ---
