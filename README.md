@@ -106,7 +106,7 @@ Soy **Pablo**, de Torrent (Valencia). Mezclo dos mundos: los **sistemas y las re
 ---
 
 <details id="-english">
-<summary><b>🇬🇧 English version</b></summary>
+<summary><b>🌍 English version</b></summary>
 
 <br/>
 
