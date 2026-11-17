@@ -46,13 +46,8 @@
       <text class="code" x="20" y="58"><tspan fill="#ff9f5a">class</tspan> <tspan fill="#ffe2c0">Pablo</tspan> {</text>
       <text class="code" x="40" y="84"><tspan fill="#ffe2c0">stack</tspan> = [<tspan fill="#ffd36e">"Java"</tspan>, <tspan fill="#ffd36e">"JS"</tspan>,</text>
       <text class="code" x="60" y="108"><tspan fill="#ffd36e">"SQL"</tspan>, <tspan fill="#ffd36e">"Redes"</tspan>];</text>
-      <text class="code" x="40" y="134"><tspan fill="#ff9f5a">aprendo</tspan>(<tspan fill="#ffd36e">"TypeScript"</tspan>);</text>
+      <text class="code" x="40" y="134"><tspan fill="#ff9f5a">aprendo</tspan>(<tspan fill="#ffd36e">"Kotlin"</tspan>);</text>
       <text class="code" x="20" y="160">}<tspan class="caret" fill="#ff8c2a">▍</tspan></text>
-    </g></g>
-    <!-- huevo naranja (guiño a EGG WARS) -->
-    <g transform="translate(1150 262)"><g class="float2">
-      <ellipse cx="0" cy="0" rx="34" ry="43" fill="#ff9a4d"/>
-      <ellipse cx="-12" cy="-16" rx="9" ry="13" fill="#fff" opacity=".45"/>
     </g></g>
 
     <g class="in d1"><text class="t2" x="72" y="92">👋 Hola, soy</text></g>

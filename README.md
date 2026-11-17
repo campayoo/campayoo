@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner-v3.svg" alt="Pablo Campayo Viñes · Desarrollo de aplicaciones · Sistemas y redes" width="100%"/>
+<img src="assets/banner-v4.svg" alt="Pablo Campayo Viñes · Desarrollo de aplicaciones · Sistemas y redes" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=800&size=22&duration=2800&pause=900&color=FF6A1A&center=true&vCenter=true&width=760&lines=Estudiante+de+DAM+en+el+IES+Abastos;T%C3%A9cnico+en+Sistemas+y+Redes;Java%2C+JavaScript+y+Node.js;Me+gusta+saber+c%C3%B3mo+funcionan+las+cosas" alt="Estudiante de DAM · Técnico en Sistemas y Redes · Java, JavaScript y Node.js"/></a>
 
@@ -47,11 +47,11 @@ Me gusta entender cómo funcionan las cosas por dentro, ya sea una red, una base
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,js,html,css,ts,react,nodejs,threejs,mysql,postgres&perline=10" alt="Java, JavaScript, HTML, CSS, TypeScript, React, Node.js, Three.js, MySQL, PostgreSQL"/>
+<img src="https://skillicons.dev/icons?i=java,kotlin,js,html,css,nodejs,threejs,mysql,postgres,androidstudio&perline=10" alt="Java, Kotlin, JavaScript, HTML, CSS, Node.js, Three.js, MySQL, PostgreSQL, Android Studio"/>
 <br/><br/>
 <img src="https://skillicons.dev/icons?i=linux,windows,wordpress,git,github,idea,vscode&perline=10" alt="Linux, Windows, WordPress, Git, GitHub, IntelliJ IDEA, VS Code"/>
 
-<sub>☕ Java y POO · 🌐 Web y WordPress · 🗄️ SQL · 🖧 Hardware, Windows, Linux y redes (Cisco Packet Tracer · CCNA 1) · ahora aprendiendo TypeScript y React</sub>
+<sub>☕ Java y POO · 🌐 Web y WordPress · 🗄️ SQL · 🖧 Hardware, Windows, Linux y redes (Cisco Packet Tracer · CCNA 1) · ahora aprendiendo Kotlin y Android</sub>
 
 </div>
 
