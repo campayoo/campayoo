@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Pablo Campayo Viñes · Desarrollador de Aplicaciones Multiplataforma">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#fffaf3"/>
+      <stop offset=".55" stop-color="#ffe9cf"/>
+      <stop offset="1" stop-color="#ffd2a1"/>
+    </linearGradient>
+    <linearGradient id="or" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ff6a1a"/>
+      <stop offset=".5" stop-color="#ff8c2a"/>
+      <stop offset="1" stop-color="#ffb03a"/>
+    </linearGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.3" fill="#c9884a" opacity=".22"/></pattern>
+    <clipPath id="clip"><rect width="1200" height="300" rx="28"/></clipPath>
+    <style>
+      .t1{font:900 64px 'Segoe UI',Nunito,Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#3b2412;letter-spacing:-1px}
+      .t2{font:800 25px 'Segoe UI',Nunito,Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#6b4a33}
+      .chip{font:800 17px 'Segoe UI',Nunito,Ubuntu,'Helvetica Neue',Arial,sans-serif;fill:#b34b00}
+      .code{font:700 17px Consolas,'Fira Code',Menlo,monospace;fill:#a8774c}
+      .in{opacity:0;animation:in .9s cubic-bezier(.2,.8,.2,1) forwards}
+      .d1{animation-delay:.1s}.d2{animation-delay:.35s}.d3{animation-delay:.6s}.d4{animation-delay:.85s}
+      @keyframes in{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:none}}
+      .blob{animation:blob 9s ease-in-out infinite alternate}
+      .blob2{animation:blob 11s ease-in-out -4s infinite alternate}
+      @keyframes blob{to{transform:translate(-30px,18px) scale(1.08)}}
+      .float{animation:float 6s ease-in-out infinite}
+      .float2{animation:float 7s ease-in-out -2.5s infinite}
+      @keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-12px)}}
+      .caret{animation:blink 1s steps(1) infinite}
+      @keyframes blink{50%{opacity:0}}
+      .bar{transform-origin:0 0;animation:grow 1.4s cubic-bezier(.2,.8,.2,1) .4s both}
+      @keyframes grow{from{transform:scaleX(0)}}
+      @media (prefers-reduced-motion:reduce){*{animation:none!important;opacity:1!important}}
+    </style>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+    <rect width="1200" height="300" fill="url(#dots)"/>
+    <circle class="blob" cx="1040" cy="40" r="170" fill="#ffb978" opacity=".45"/>
+    <circle class="blob2" cx="880" cy="300" r="120" fill="#ffd36e" opacity=".4"/>
+
+    <!-- tarjeta de código -->
+    <g transform="translate(846 62)"><g class="float">
+      <rect width="300" height="176" rx="18" fill="#2a1a0e" opacity=".95"/>
+      <circle cx="22" cy="20" r="5" fill="#ff5f56"/><circle cx="40" cy="20" r="5" fill="#ffbd2e"/><circle cx="58" cy="20" r="5" fill="#27c93f"/>
+      <text class="code" x="20" y="58"><tspan fill="#ff9f5a">class</tspan> <tspan fill="#ffe2c0">Pablo</tspan> {</text>
+      <text class="code" x="40" y="84"><tspan fill="#ffe2c0">stack</tspan> = [<tspan fill="#ffd36e">"Java"</tspan>, <tspan fill="#ffd36e">"JS"</tspan>,</text>
+      <text class="code" x="60" y="108"><tspan fill="#ffd36e">"SQL"</tspan>, <tspan fill="#ffd36e">"Redes"</tspan>];</text>
+      <text class="code" x="40" y="134"><tspan fill="#ff9f5a">busco</tspan>(<tspan fill="#ffd36e">"Erasmus+"</tspan>);</text>
+      <text class="code" x="20" y="160">}<tspan class="caret" fill="#ff8c2a">▍</tspan></text>
+    </g></g>
+    <!-- huevo naranja (guiño a EGG WARS) -->
+    <g transform="translate(1150 262)"><g class="float2">
+      <ellipse cx="0" cy="0" rx="34" ry="43" fill="#ff9a4d"/>
+      <ellipse cx="-12" cy="-16" rx="9" ry="13" fill="#fff" opacity=".45"/>
+    </g></g>
+
+    <g class="in d1"><text class="t2" x="72" y="92">👋 Hola, soy</text></g>
+    <g class="in d2"><text class="t1" x="68" y="160">Pablo Campayo Viñes</text></g>
+    <rect class="bar" x="72" y="178" width="250" height="7" rx="3.5" fill="url(#or)"/>
+    <g class="in d3"><text class="t2" x="72" y="222">Desarrollo Multiplataforma (DAM) · Sistemas y Redes</text></g>
+    <g class="in d4">
+      <rect x="72" y="242" width="292" height="36" rx="18" fill="#fff" stroke="#ffc58f"/>
+      <circle cx="94" cy="260" r="6" fill="#2ecc71"/>
+      <text class="chip" x="108" y="266">Buscando prácticas Erasmus+</text>
+      <rect x="376" y="242" width="186" height="36" rx="18" fill="#fff" stroke="#ffc58f"/>
+      <text class="chip" x="398" y="266">📍 Torrent · Valencia</text>
+    </g>
+  </g>
+</svg>
