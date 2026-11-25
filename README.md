@@ -34,12 +34,12 @@ Me gusta entender cómo funcionan las cosas por dentro, ya sea una red, una base
 
 <a href="https://campayoo.github.io/EBAUTrainer/"><img src="assets/p-pauta-v3.svg" alt="Pauta (EBAU Trainer): profesor virtual para preparar la PAU, con planning adaptable, 133 clases y calculadora científica" width="99%"/></a>
 
-<a href="https://github.com/campayoo/EggWars"><img src="assets/p-eggwars-v3.svg" alt="EGG WARS: shooter 3D online en el navegador" width="49%"/></a>
+<a href="https://github.com/campayoo/EggWars"><img src="assets/p-eggwars-v3.svg" alt="EGG WARS: shooter 3D de huevos, se descarga y se juega en local" width="49%"/></a>
 <a href="https://github.com/campayoo/ProyectoChampions"><img src="assets/p-champions-v3.svg" alt="Champions Elite: simulador de la Champions League en Java" width="49%"/></a>
 <a href="https://github.com/campayoo/ProyectoIntermodular"><img src="assets/p-worldgames-v3.svg" alt="WORLDGAMES · ODS Hub: minijuegos web sobre los ODS" width="49%"/></a>
 <a href="https://github.com/campayoo/JuegoDelTesoro"><img src="assets/p-consola-v3.svg" alt="Juegos de consola en Java" width="49%"/></a>
 
-<sub>Pauta: <a href="https://campayoo.github.io/EBAUTrainer/">web del proyecto</a> · <a href="https://campayoo.github.io/EBAUTrainer/app/">probar la app</a> · <a href="https://github.com/campayoo/EBAUTrainer">código</a> &nbsp;|&nbsp; EGG WARS: <a href="https://eggwars-plai.onrender.com">jugar online</a> · <a href="https://campayoo.github.io/EggWars/">guía del juego</a> &nbsp;|&nbsp; Consola: <a href="https://github.com/campayoo/JuegoDelTesoro">Juego del Tesoro</a> · <a href="https://github.com/campayoo/AhorcadoJugadores">Ahorcado</a> · <a href="https://github.com/campayoo/ArbolNavidad">Árbol de Navidad</a></sub>
+<sub>Pauta: <a href="https://campayoo.github.io/EBAUTrainer/">web del proyecto</a> · <a href="https://campayoo.github.io/EBAUTrainer/app/">probar la app</a> · <a href="https://github.com/campayoo/EBAUTrainer">código</a> &nbsp;|&nbsp; EGG WARS: <a href="https://github.com/campayoo/EggWars">descargar</a> · <a href="https://campayoo.github.io/EggWars/">guía del juego</a> &nbsp;|&nbsp; Consola: <a href="https://github.com/campayoo/JuegoDelTesoro">Juego del Tesoro</a> · <a href="https://github.com/campayoo/AhorcadoJugadores">Ahorcado</a> · <a href="https://github.com/campayoo/ArbolNavidad">Árbol de Navidad</a></sub>
 
 </div>
 
@@ -86,7 +86,7 @@ Me gusta entender cómo funcionan las cosas por dentro, ya sea una red, una base
 Hi! I'm **Pablo**, an IT student from Torrent (Valencia, Spain). I finished a vocational degree in **Microcomputer Systems and Networks** and I'm now studying **Cross-Platform Application Development**. I mostly write Java at school and JavaScript/Node.js on my own.
 
 - 💼 Web developer at **CrowdPolicy** (Athens) · ICT technician at **RS Turia** · crew trainer at **McDonald's**
-- 🧩 Projects: **Pauta**, a virtual teacher to prepare the university entrance exam (adaptive planner, 133 lessons, offline PWA), a 3D online browser game, a Champions League simulator in Java and a web platform about the SDGs
+- 🧩 Projects: **Pauta**, a virtual teacher to prepare the university entrance exam (adaptive planner, 133 lessons, offline PWA), a 3D egg shooter you download and play locally, a Champions League simulator in Java and a web platform about the SDGs
 - 🗣️ Spanish and Valencian (native) · **English B2** · French A2
 
 Open to internships, in Spain or abroad.
